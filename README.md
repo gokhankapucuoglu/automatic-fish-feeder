@@ -35,13 +35,27 @@
 ![Bağlantı Şeması / Wiring Diagram](images/diagram_step_motor.jpg)
 
 | Component (ULN2003) | Arduino Pin |
-|---------------------|-------------|
-| IN1                 | 7           |
-| IN2                 | 6           |
-| IN3                 | 5           |
-| IN4                 | 4           |
-| VCC                 | 5V          |
-| GND                 | GND         |
+|:-------------------|:------------|
+| IN1                | 7           |
+| IN2                | 6           |
+| IN3                | 5           |
+| IN4                | 4           |
+| VCC                | 5V          |
+| GND                | GND         |
+
+---
+
+## 📐 3D Modeller / 3D Models
+
+**[TR]**
+Projenin mekanik parçaları, kullanılan motor tipine göre `3d-files` klasörü altında iki kategoriye ayrılmıştır. Her iki seçenek için de montaj için gerekli tüm parçalar (7'şer adet STL) mevcuttur:
+- **servoMotor:** Servo motor kullanımı için optimize edilmiş dosyalar.
+- **stepMotor:** Step motor (28BYJ-48) kullanımı için optimize edilmiş dosyalar.
+
+**[EN]**
+The mechanical parts of the project are categorized into two folders under `3d-files` based on the motor type used. All necessary parts (7 STL files each) for assembly are included for both options:
+- **servoMotor:** Files optimized for servo motor use.
+- **stepMotor:** Files optimized for stepper motor (28BYJ-48) use.
 
 ---
 
@@ -61,4 +75,6 @@
 ---
 
 ## 📜 Lisans / License
-This project is licensed under the **MIT License**.
+
+[TR] Bu proje **MIT Lisansı** ile lisanslanmıştır.
+[EN] This project is licensed under the **MIT License**.
