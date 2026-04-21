@@ -1,6 +1,6 @@
 /**
  * Proje: Otomatik Balık Yemleme Sistemi
- * Yazar: Erdal Gökhan Kapucuoğlu
+ * Yazar: Gökhan Kapucuoğlu
  * Açıklama: 28BYJ-48 step motor kullanarak hassas kontrollü yemleme sistemi.
  * Versiyon: 1.0.0
  */
