@@ -74,7 +74,18 @@ The mechanical parts of the project are categorized into two folders under `3d-f
 
 ---
 
+## ⭐ Destek Olun / Support Us
+
+**[TR]** 🌟 **Bu projeyi beğendiniz mi?**
+Eğer bu proje işinize yaradıysa veya size ilham verdiyse, sağ üst köşeden bir **yıldız (star)** vererek destek olabilirsiniz! Bu, projeyi daha fazla kişinin görmesine yardımcı olur.
+
+**[EN]** 🌟 **Did you like this project?**
+If this project helped you or gave you inspiration, please consider giving it a **star**! It helps the project reach more people.
+
+---
+
 ## 📜 Lisans / License
 
-[TR] Bu proje **MIT Lisansı** ile lisanslanmıştır.
-[EN] This project is licensed under the **MIT License**.
+**[TR]** Bu proje **MIT Lisansı** ile lisanslanmıştır.
+
+**[EN]** This project is licensed under the **MIT License**.
